@@ -1,20 +1,20 @@
 ### Hi there 👋
-🚀 About Me  
+# 🚀 About Me  
 I'm a full stack developer...
 'Im currently persuing my bachelor's degree at CMR College of Engineering & Technology, Hyderabad  
 
-🛠 Skills  
-Frontend  
+# 🛠 Skills  
+## Frontend  
 HTML, CSS, Bootstrap, JS, ReactJS  
-Backend  
+## Backend  
 Django, Flask, NodeJS, Express JS, PHP  
-Databases  
+## Databases  
 SQLite3, Mongo DB, MySQL, NoSQL  
-Programming Languages  
+## Programming Languages  
 C / C++, Java, Python, Go lang, SQL  
-Developer Tools  
+## Developer Tools  
 Git, Github, VS Code, Jupyter  
-Libraries  
+## Libraries  
 Scikit-learn, Numpy, Pandas, Matplotlib  
 
 <!--
