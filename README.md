@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Harshitha Majety
 ## 🚀 About Me  
-I'm a full stack developer...
+👩‍💻 I'm a full stack developer...
 'Im currently persuing my bachelor's degree at CMR College of Engineering & Technology, Hyderabad  
 
 ## 🛠 Skills  
