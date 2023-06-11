@@ -1,9 +1,10 @@
 ### Hi there 👋
-# 🚀 About Me  
+# I'm Harshitha Majety
+## 🚀 About Me  
 I'm a full stack developer...
 'Im currently persuing my bachelor's degree at CMR College of Engineering & Technology, Hyderabad  
 
-# 🛠 Skills  
+## 🛠 Skills  
 ## Frontend  
 HTML, CSS, Bootstrap, JS, ReactJS  
 ## Backend  
