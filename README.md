@@ -1,7 +1,7 @@
 ### Hi there 👋
-🚀 About Me
+🚀 About Me__
 I'm a full stack developer...
-'m currently persuing my bachelor's degree at CMR College of Engineering & Technology, Hyderabad
+'Im currently persuing my bachelor's degree at CMR College of Engineering & Technology, Hyderabad
 
 <!--
 **Harshitha392/Harshitha392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
