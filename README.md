@@ -1,7 +1,21 @@
 ### Hi there 👋
 🚀 About Me  
 I'm a full stack developer...
-'Im currently persuing my bachelor's degree at CMR College of Engineering & Technology, Hyderabad
+'Im currently persuing my bachelor's degree at CMR College of Engineering & Technology, Hyderabad  
+
+🛠 Skills  
+Frontend
+HTML, CSS, Bootstrap, JS, ReactJS  
+Backend
+Django, Flask, NodeJS, Express JS, PHP  
+Databases
+SQLite3, Mongo DB, MySQL, NoSQL  
+Programming Languages,
+C / C++, Java, Python, Go lang, SQL  
+Developer Tools
+Git, Github, VS Code, Jupyter  
+Libraries
+Scikit-learn, Numpy, Pandas, Matplotlib  
 
 <!--
 **Harshitha392/Harshitha392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
