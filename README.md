@@ -5,17 +5,17 @@ I'm a full stack developer...
 
 🛠 Skills  
 Frontend  
-* HTML, CSS, Bootstrap, JS, ReactJS  
+HTML, CSS, Bootstrap, JS, ReactJS  
 Backend  
-* Django, Flask, NodeJS, Express JS, PHP  
+Django, Flask, NodeJS, Express JS, PHP  
 Databases  
-* SQLite3, Mongo DB, MySQL, NoSQL  
+SQLite3, Mongo DB, MySQL, NoSQL  
 Programming Languages  
-* C / C++, Java, Python, Go lang, SQL  
+C / C++, Java, Python, Go lang, SQL  
 Developer Tools  
-* Git, Github, VS Code, Jupyter  
+Git, Github, VS Code, Jupyter  
 Libraries  
-* Scikit-learn, Numpy, Pandas, Matplotlib  
+Scikit-learn, Numpy, Pandas, Matplotlib  
 
 <!--
 **Harshitha392/Harshitha392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
