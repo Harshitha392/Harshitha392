@@ -6,13 +6,13 @@ I'm a full stack developer...
 
 ## 🛠 Skills  
 ## Frontend  
-* HTML, CSS, Bootstrap, JS, ReactJS  
+* HTML, CSS, Bootstrap,JavaScript,JQuery, ReactJS  
 ## Backend  
 * Django, Flask, NodeJS, Express JS, PHP  
 ## Databases  
 * SQLite3, Mongo DB, MySQL, NoSQL  
 ## Programming Languages  
-* C / C++, Java, Python, Go lang, SQL  
+* C / C++, Java, Python, JavaScript
 ## Developer Tools  
 * Git, Github, VS Code, Jupyter  
 ## Libraries  
